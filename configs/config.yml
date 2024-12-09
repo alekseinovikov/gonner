@@ -1,0 +1,7 @@
+services:
+  - name: service1
+    command: "echo 10"
+    env:
+      - VAR1=value1
+  - name: service2
+    command: "echo Hello, Gonner!"
