@@ -1,0 +1,21 @@
+# Binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test results
+*.out
+
+# Directory with dependencies, if you use vendoring
+/vendor/
+
+# IDE files
+.idea/
+*.iml
+/.idea/
+
+# Diffrent files
+*.log
+*.tmp
